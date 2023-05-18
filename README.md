@@ -1,0 +1,2 @@
+# .github
+Kinesis Technical Society
