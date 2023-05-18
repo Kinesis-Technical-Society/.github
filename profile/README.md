@@ -27,3 +27,18 @@ To ensure a respectful and inclusive environment, we have a [Code of Conduct](..
 If you have any questions, suggestions, or need assistance, feel free to reach out to us. You can contact us via [email](mailto:kts@kiet.edu).
 
 We're excited to have you as part of KTS and look forward to collaborating with you on exciting technical projects and initiatives!
+
+<br />
+<div align="center">
+  <a href="https://www.linkedin.com/company/kinesis-technical-society" target="_blank">
+   <img src="./assets/linkedin.png" alt="linkedin" height="45" width="45" />
+  </a>
+    &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/kinesis_technical_society" target="_blank">
+   <img src="./assets/instagram.png" alt="instagram" height="45" width="45" />
+  </a>
+     &nbsp;&nbsp;&nbsp;
+   <a href="#" target="_blank">
+    <img src="./assets/youtube.png" alt="youtube" height="45" width="45" />
+   </a>
+</div>
