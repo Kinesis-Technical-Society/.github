@@ -20,7 +20,7 @@ Joining KTS is a great way to enhance your technical skills, expand your network
 
 ## Code of Conduct
 
-To ensure a respectful and inclusive environment, we have a [Code of Conduct](./code_of_conduct.md) that applies to all community members. Please review and abide by it to maintain a welcoming atmosphere for everyone.
+To ensure a respectful and inclusive environment, we have a [Code of Conduct](../CODE_OF_CONDUCT.md) that applies to all community members. Please review and abide by it to maintain a welcoming atmosphere for everyone.
 
 ## Support
 
