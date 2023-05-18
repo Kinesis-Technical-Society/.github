@@ -2,11 +2,11 @@
 
 KTS is a technical society dedicated to fostering technical innovation, collaboration, and learning among students at KIET Group of Institutions, Ghaziabad.
 
-## About Us
+## About Us :smiley:
 
 At KTS, we provide a platform for students to explore and contribute to open source projects, participate in coding competitions, attend workshops, find a mentor and connect with like-minded individuals passionate about technology.
  
-## Get Involved
+## Get Involved :raised_hands:
 
 Joining KTS is a great way to enhance your technical skills, expand your network, and gain valuable experience. Here's how you can get involved:
 
@@ -18,11 +18,11 @@ Joining KTS is a great way to enhance your technical skills, expand your network
 
 - **Share Your Knowledge**: Have a cool project or a technical topic you're passionate about? Consider sharing it with the community through workshops, tutorials, or lightning talks. Help others learn and grow!
 
-## Code of Conduct
+## Code of Conduct :four_leaf_clover:
 
 To ensure a respectful and inclusive environment, we have a [Code of Conduct](../CODE_OF_CONDUCT.md) that applies to all community members. Please review and abide by it to maintain a welcoming atmosphere for everyone.
 
-## Support
+## Support :seedling:
 
 If you have any questions, suggestions, or need assistance, feel free to reach out to us. You can contact us via [email](mailto:kts@kiet.edu).
 
