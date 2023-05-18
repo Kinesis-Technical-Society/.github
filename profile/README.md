@@ -31,14 +31,14 @@ We're excited to have you as part of KTS and look forward to collaborating with 
 <br />
 <div align="center">
   <a href="https://www.linkedin.com/company/kinesis-technical-society" target="_blank">
-   <img src="./assets/linkedin.png" alt="linkedin" height="45" width="45" />
+   <img src="assets/linkedin.png" alt="linkedin" height="45" width="45" />
   </a>
     &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/kinesis_technical_society" target="_blank">
-   <img src="./assets/instagram.png" alt="instagram" height="45" width="45" />
+   <img src="assets/instagram.png" alt="instagram" height="45" width="45" />
   </a>
      &nbsp;&nbsp;&nbsp;
    <a href="#" target="_blank">
-    <img src="./assets/youtube.png" alt="youtube" height="45" width="45" />
+    <img src="assets/youtube.png" alt="youtube" height="45" width="45" />
    </a>
 </div>
